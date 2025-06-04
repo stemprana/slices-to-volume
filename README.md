@@ -11,7 +11,10 @@ Pipeline is aimed at perfoming registration on lower resolution *zoomed-out* ima
 
 
 
-https://github.com/user-attachments/assets/7b716ed7-5760-435e-8d23-d5ceebe47a4f
+
+https://github.com/user-attachments/assets/5736e3dd-4d64-40ea-83fe-7cd05b7d4b87
+
+
 
 
 
