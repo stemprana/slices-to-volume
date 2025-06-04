@@ -61,5 +61,5 @@ Instructions for downloading relevant files and creating a python environment co
 4. Select the *slices_to_vol_k* kernel (*Kernel/Change Kernel...* in toolbar).
 5. Follow the steps detailed on the notebook.
 
-Script was tested on a laptop using a with RAM memory running on PopOS OS.
+Script was tested on a laptop running on Pop!_OS 22.04 with 32GB of RAM memory and a 11th Gen Intel® Core™ i7 processor.
 
