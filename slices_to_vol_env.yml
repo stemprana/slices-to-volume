@@ -1,0 +1,14 @@
+name: slices_to_vol_env
+channels: 
+  - conda-forge
+dependencies: 
+  - pyopengl==3.1.6 
+  - scikit-image
+  - opencv
+  - tifffile
+  - napari
+  - pyqt
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+
