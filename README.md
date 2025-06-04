@@ -5,7 +5,7 @@ Python pipeline for brain slices registration and volume reconstruction.
 Input datasets consist of images of mouse brain slices mounted sequentially after histological procedures. 
 Large field of view images are obtained at two different resolutions.
 - Lower resolution images are used for regsitration purposes.
-- Higher resoltion images are used for a detailed analysis of area of interest.
+- Higher resolution images are used for a detailed analysis of area of interest.
 
 Pipeline is aimed at perfoming registration on lower resolution *zoomed-out* images and applying transormations to higer resolution *zoomed-in* datasets.
 
@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/5736e3dd-4d64-40ea-83fe-7cd05b7d4b87
 
 
 
-Overalapping region of transformed *zoomed-in* images is obtained and a volumetric reconstruction generated.
+Overlapping region of transformed *zoomed-in* images is obtained and a volumetric reconstruction generated.
 
 
 
